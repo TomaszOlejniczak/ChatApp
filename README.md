@@ -19,7 +19,9 @@ How to run:
 
 npm install
 
-npm start - script running
+npm run build
+
+node index.js
 
 http://localhost:3000/
 
