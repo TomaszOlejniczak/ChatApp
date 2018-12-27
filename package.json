@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/achromik/ChatApp.git"
+    "url": "git+https://github.com/Traxan/learning-git-2.git"
   },
   "keywords": [
     "chat",
@@ -19,12 +19,12 @@
     "Express",
     "Socket.io"
   ],
-  "author": "Aleksander Chromik",
+  "author": "Tomasz Olejniczak",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/achromik/ChatApp/issues"
+    "url": "https://github.com/Traxan/learning-git-2/issues"
   },
-  "homepage": "https://github.com/achromik/ChatApp#readme",
+  "homepage": "https://github.com/Traxan/learning-git-2#readme",
   "dependencies": {
     "express": "^4.16.4",
     "font-awesome": "^4.7.0",
