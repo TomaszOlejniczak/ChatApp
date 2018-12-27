@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/achromik/ChatApp#readme",
   "dependencies": {
-    "express": "^4.16.2",
+    "express": "^4.16.4",
     "font-awesome": "^4.7.0",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
