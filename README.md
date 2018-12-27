@@ -3,6 +3,7 @@
 * [Technologies](#technologies)
 * [Tools](#tools)
 * [Working Page](#working-page)
+* [Screen](#screen)
 
 ## General info
 Chat Application.
@@ -36,3 +37,6 @@ The following tools were used:
 * NPM
 * Git
 * Express
+
+## Screen 
+![Screen]( https://github.com/TomaszOlejniczak/ChatApp/blob/master/images/ChatApp.jpg)
